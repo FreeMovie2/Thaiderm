@@ -73,7 +73,7 @@
             </div>
             <div class="col-12">
                 <div class="owl-carousel owl-theme">
-                    <
+                    
                     <section class="col-12 p-2">
                         <div class="card h-100">
                             <a href="blog-detail.php?id=" class="warpper-card-img">
