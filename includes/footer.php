@@ -1,4 +1,5 @@
 <?php $file_name = basename($_SERVER['SCRIPT_FILENAME'],".php"); ?>
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <!-- <section class="position-relative py-5 jarallax" data-speed="0.5" style="background-image: url('assets/images/02.jpg');">
     <div class="container">
         <div class="row">
@@ -35,10 +36,11 @@
                 <i class="fa fa-phone-square"></i> 04-493-8883 <br>
                 <i class="fa fa-phone-square"></i> 04-436-5552 <br>
                 <i class="fa fa-envelope"></i> email@example.com <br>
-                <i class="fa fa-address-card"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, aspernatur!
+                <i class="fa fa-address-card"></i> ที่อยู่ 41 หมู่ 11 ตำบลหนองน้ำแดง อำเภอปากช่อง จังหวัดนครราชสีมา
             </p>
             <a href="https://www.facebook.com/profile.php?id=100009557124226" target="_blank">
-                <i class="fa fa-facebook-square fa-2x"></i>
+                <i class="fab fa-facebook-square fa-2x"></i>
+                <i class="fab fa-line fa-2x"></i>
             </a>
         </div>
         <div class="col-md-3">

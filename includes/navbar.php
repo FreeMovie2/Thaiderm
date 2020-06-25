@@ -20,8 +20,8 @@
                 <li class="nav-item <?php echo $file_name == 'blog' || $file_name == 'blog-detail' ? 'active': '' ?>">
                     <a class="nav-link" href="blog.php">บทความ</a>
                 </li>
-                <li class="nav-item <?php echo $file_name == 'blog' || $file_name == 'blog-detail' ? 'active': '' ?>">
-                    <a class="nav-link" href="blog.php">แกลลอรี่</a>
+                <li class="nav-item <?php echo $file_name == 'gery' || $file_name == 'blog-detail' ? 'active': '' ?>">
+                    <a class="nav-link" href="gery.php">แกลลอรี่</a>
                 </li>
                 <li class="nav-item <?php echo $file_name == 'contact' ? 'active': '' ?>">
                     <a class="nav-link" href="contact.php">ติดต่อเรา</a>
